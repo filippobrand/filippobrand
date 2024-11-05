@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm an Aerospace Engineer mainly interested in numerical and experimental fluid dynamics and in composite materials.
-- 🔭 I’m currently working on Neural Networks in fluid dynamics.
-- 🌱 I’m currently learning statistics, in particular Gaussian Processes, and programming in Python. 
+Welcome to my profile. This is a WIP, bear with me...
 
 <!--
 **filippobrand/filippobrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
